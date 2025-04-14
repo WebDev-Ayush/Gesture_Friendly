@@ -27,19 +27,7 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with a disability. 
 We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
 
-## Demo
-![Example screenshot](./img/demo4.gif)
 
-
-
-![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
-
-
-**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/acd72).**
 
 ## Screenshots
 
